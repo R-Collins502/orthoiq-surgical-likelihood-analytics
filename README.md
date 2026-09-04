@@ -40,6 +40,16 @@ OrthoIQ was designed to explore three additional questions:
 
 ---
 
+### Data Source
+
+The source healthcare dataset was created by Prasad Patil and obtained from Kaggle:
+
+**Healthcare Dataset — Prasad Patil (Kaggle)**
+
+The dataset is licensed under **CC0: Public Domain** and contains entirely synthetic healthcare records.
+
+Source: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
 ## Dataset
 
 The project begins with a synthetic general healthcare dataset containing **55,500 records**.
