@@ -116,7 +116,7 @@ Logistic Regression achieved:
 * **Surgery F1:** 80.4%
 * **ROC-AUC:** 0.936
 
-![Logistic Regression Confusion Matrix](images/logistic_confusion_matrix.png)
+![Logistic Regression Confusion Matrix](logistic_confusion_matrix.png)
 
 ### Random Forest
 
@@ -130,7 +130,7 @@ Random Forest achieved:
 
 Logistic Regression outperformed Random Forest across the primary evaluation metrics while also providing greater interpretability.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ---
 
@@ -175,7 +175,7 @@ The tradeoff was an increase in false positives from 131 to 184, while overall a
 
 For a hypothetical screening-oriented application in which identifying potential surgical patients is prioritized, this represents a reasonable analytical tradeoff.
 
-![Classification Threshold Tradeoff](images/threshold_tradeoff.png)
+![Classification Threshold Tradeoff](threshold_tradeoff.png)
 
 The 40% threshold is an exploratory demonstration and **not a clinically validated cutoff**.
 
@@ -197,7 +197,7 @@ Patients were grouped into:
 | Elevated         |      271 |                     55.0% |                       **52.0%** |
 | High             |      493 |                     86.1% |                       **89.0%** |
 
-![Surgical Likelihood Stratification](images/likelihood_stratification.png)
+![Surgical Likelihood Stratification](likelihood_stratification.png)
 
 Observed synthetic surgery rates increased substantially across the three groups, demonstrating that the model effectively separated lower-likelihood patients from patients with progressively greater synthetic surgical likelihood.
 
