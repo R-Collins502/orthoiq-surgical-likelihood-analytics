@@ -6,7 +6,7 @@ OrthoIQ is an orthopedic healthcare analytics project that demonstrates how clin
 
 The project combines data preparation, clinically informed synthetic feature engineering, predictive modeling, model comparison, threshold optimization, model interpretation, and patient-level likelihood stratification.
 
-> **Important:** OrthoIQ is an educational portfolio project built with synthetic data. It is not a validated clinical prediction or decision-support tool.
+> **Important Disclaimer:** OrthoIQ is an educational portfolio project built with synthetic data. It is not a validated clinical prediction or decision-support tool.
 
 ---
 
