@@ -303,17 +303,6 @@ Future development would also require external validation, subgroup performance 
 
 ---
 
-## Repository Structure
-
-```text
-orthoiq-surgical-likelihood-analytics/
-│
-├── README.md
-├── OrthoIQ_Surgical_Likelihood_Analytics.ipynb
-├── requirements.txt
-└── images/
-    └── Project visualizations
-```
 
 The complete analytical workflow, code, model development, evaluation, and interpretation are available in:
 
