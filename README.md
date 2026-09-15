@@ -20,7 +20,7 @@ The project combines data preparation, clinically informed synthetic feature eng
 
 **Preferred Model:** Logistic Regression
 
-At an exploratory **40% screening threshold**, Logistic Regression increased surgery recall to **86.6%** and reduced false negatives from **131 to 90**, while maintaining **85.8% accuracy**.
+At an exploratory **40% screening threshold**, Logistic Regression increased surgery recall to **86.6%** and reduced false negatives from **131 to 90**, while maintaining **85.1% accuracy**.
 
 Patient stratification also produced clear separation in observed synthetic surgery rates:
 
